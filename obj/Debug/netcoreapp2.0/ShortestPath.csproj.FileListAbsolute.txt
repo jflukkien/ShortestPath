@@ -1,0 +1,10 @@
+e:\projects\prive\ShortestPath\bin\Debug\netcoreapp2.0\ShortestPath.deps.json
+e:\projects\prive\ShortestPath\bin\Debug\netcoreapp2.0\ShortestPath.runtimeconfig.json
+e:\projects\prive\ShortestPath\bin\Debug\netcoreapp2.0\ShortestPath.runtimeconfig.dev.json
+e:\projects\prive\ShortestPath\bin\Debug\netcoreapp2.0\ShortestPath.dll
+e:\projects\prive\ShortestPath\bin\Debug\netcoreapp2.0\ShortestPath.pdb
+e:\projects\prive\ShortestPath\obj\Debug\netcoreapp2.0\ShortestPath.csproj.CoreCompileInputs.cache
+e:\projects\prive\ShortestPath\obj\Debug\netcoreapp2.0\ShortestPath.AssemblyInfoInputs.cache
+e:\projects\prive\ShortestPath\obj\Debug\netcoreapp2.0\ShortestPath.AssemblyInfo.cs
+e:\projects\prive\ShortestPath\obj\Debug\netcoreapp2.0\ShortestPath.dll
+e:\projects\prive\ShortestPath\obj\Debug\netcoreapp2.0\ShortestPath.pdb
